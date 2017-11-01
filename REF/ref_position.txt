@@ -1,0 +1,7 @@
+ESSENTIAL   0     300
+CLASS(SPEC) 0     -183
+CLASS XTRA  0     -229.5
+CC          316   -183
+UTILITIES   -316  -183
+
+BARS        0     -150
