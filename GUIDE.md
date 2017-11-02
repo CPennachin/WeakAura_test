@@ -1,6 +1,6 @@
 # AFENAR WEAK AURAS
 
-###Variables
+## Variables
 
 * ["xOffset"]
 * ["yOffset"]
@@ -12,7 +12,7 @@
 * = "Friz Quadrata TT", -> = "Doris PP",
 
 
-###Position Table
+## Position Table
 
 | GROUP  | X | Y | GROW | SELF | TYPE |
 |:---:|:---:|:---:|:---:|:---:|:---:|
