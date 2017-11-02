@@ -13,6 +13,7 @@
 
 
 ###Position Table
+
 | GROUP  | X | Y | GROW | SELF | TYPE |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ESSENCIAL  | 0  | 300  | horizontal  | center  | dynamic  |
